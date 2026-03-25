@@ -6,3 +6,8 @@
 .ycm_extra_conf.pyc
 Release
 Debug
+
+# Environment variables
+.env
+.env.*
+!.env.example
